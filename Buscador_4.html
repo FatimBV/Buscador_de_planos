@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Buscador de Planos - Fertinagro</title>
+<style>
+  :root{
+    --panel-bg: rgba(0,0,0,0.55);
+  }
+
+  html,body{
+    height:100%;
+    margin:0;
+  }
+
+  body {
+    font-family: "Segoe UI", Arial, sans-serif;
+    /* imagen de fondo (contain para que se vea completa) */
+    background-image: url('https://raw.githubusercontent.com/FatimBV/FotofondoApp/8c5b7ce0112b63f30ac1e671de2c5d550620ca11/FondoAppPlanos.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom; /* intenta mostrar la parte baja (logos) */
+    background-color: #000;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height:100vh;
+    position:relative;
+  }
+
+  /* Contenedor principal */
+  h1 { 
+    margin-top: 28px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+  }
+
+  .container {
+    background-color: var(--panel-bg);
+    padding: 20px 28px;
+    border-radius: 14px;
+    margin-top: 44px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.45);
+    backdrop-filter: blur(6px);
+    z-index: 5; /* por encima de los logos si hace falta */
+  }
+
+  select, button {
+    width: 260px;
+    padding: 10px;
+    margin: 8px 0;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    display: block;
+  }
+
+  select { background: rgba(255,255,255,0.95); color:#222; }
+  button { background: #78be20; color:#fff; cursor:pointer; }
+
+  /* Logos fijados en la parte inferior (siempre visibles) */
+  .logo-fixed {
+    position: fixed;
+    bottom: 10px;
+    z-index: 10;
+    pointer-events: none; /* no interfieren con clicks */
+  }
+
+  .logo-left {
+    left: 12px;
+  }
+
+  .logo-right {
+    right: 12px;
+  }
+
+  .logo-fixed img {
+    display:block;
+    max-height: 60px;      /* tamaño máximo en pantallas grandes */
+    width: auto;
+    opacity: 0.98;
+  }
+
+  /* Ajustes responsivos: en móviles reducir logos */
+  @media (max-width: 520px) {
+    .logo-fixed img { max-height: 42px; }
+    .container { padding: 16px 18px; margin-top: 24px; width: calc(100% - 32px); }
+    select, button { width: 100%; }
+    body { background-position: center bottom; background-size: 140%; } /* un poco más zoom para móviles */
+  }
+
+  /* Si prefieres solo probar el ajuste rápido sin logos extra:
+     cambia background-position a 'center bottom' (ya está) y juega con background-size (contain/cover).
+  */
+</style>
+</head>
+<body>
+  <h1>Buscador de Planos - Fertinagro</h1>
+
+  <div class="container">
+    <select id="areaSelect"><option value="">Seleccionar Área</option></select>
+    <select id="zonaSelect" disabled><option value="">Seleccionar Zona</option></select>
+    <select id="nfaseSelect" disabled><option value="">Seleccionar NFASE</option></select>
+    <div id="botones"></div>
+  </div>
+
+  <!-- Logos incluidos como elementos separados para garantizar visibilidad -->
+  <!-- REEMPLAZA estas URLs por las tuyas (raw URLs desde GitHub o rutas locales) -->
+  <div class="logo-fixed logo-left" aria-hidden="true">
+    <img id="logo-gesti" src="URL_LOGO_GESTIPROJECT" alt="Gestiproject logo">
+  </div>
+
+  <div class="logo-fixed logo-right" aria-hidden="true">
+    <img id="logo-tervalis" src="URL_LOGO_TERVALIS" alt="Tervalis logo">
+  </div>
+
+<script>
+  // ---------- DATOS CSV y lógica (igual a tu versión que funcionaba) ----------
+  const csvUrl = "https://raw.githubusercontent.com/FatimBV/Buscador_de_planos/main/planos.csv";
+  let data = [];
+
+  async function cargarCSV() {
+    try {
+      const res = await fetch(csvUrl);
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const text = await res.text();
+      const filas = text.split(/\r?\n/).map(l => l.trim()).filter(l => l.length>0);
+
+      data = filas.map(linea => {
+        // dividir conservando comas en URL (unir resto)
+        const partes = linea.split(',');
+        const [Area, Zona, NFASE, ...rest] = partes;
+        return { Area: Area?.trim()||'', Zona: Zona?.trim()||'', NFASE: NFASE?.trim()||'', URL: (rest||[]).join(',').trim() };
+      });
+      cargarAreas();
+    } catch(err) {
+      console.error('Error cargando CSV:', err);
+      // muestra visiblemente si falla
+      const cont = document.querySelector('.container');
+      cont.innerHTML = '<p style="color:#fdd; font-weight:bold">Error cargando datos CSV. Mira la consola.</p>';
+    }
+  }
+
+  function cargarAreas() {
+    const select = document.getElementById('areaSelect');
+    select.innerHTML = '<option value="">Seleccionar Área</option>';
+    const areas = [...new Set(data.map(d=>d.Area).filter(Boolean))];
+    areas.forEach(a=>{
+      const o = document.createElement('option'); o.value=a; o.textContent=a;
+      select.appendChild(o);
+    });
+  }
+
+  document.getElementById('areaSelect').addEventListener('change', function(){
+    const area = this.value;
+    const zonas = [...new Set(data.filter(d=>d.Area===area).map(d=>d.Zona).filter(Boolean))];
+    const zonaSelect = document.getElementById('zonaSelect');
+    zonaSelect.innerHTML = '<option value="">Seleccionar Zona</option>';
+    document.getElementById('nfaseSelect').innerHTML = '<option value="">Seleccionar NFASE</option>';
+    document.getElementById('botones').innerHTML = '';
+    zonas.forEach(z=>{
+      const o=document.createElement('option'); o.value=z; o.textContent=z;
+      zonaSelect.appendChild(o);
+    });
+    zonaSelect.disabled = zonas.length===0;
+    document.getElementById('nfaseSelect').disabled = true;
+  });
+
+  document.getElementById('zonaSelect').addEventListener('change', function(){
+    const area = document.getElementById('areaSelect').value;
+    const zona = this.value;
+    const resultados = data.filter(d=>d.Area===area && d.Zona===zona);
+    const nfases = [...new Set(resultados.map(r=>r.NFASE).filter(Boolean))];
+    const nfaseSelect = document.getElementById('nfaseSelect');
+    const cont = document.getElementById('botones');
+    nfaseSelect.innerHTML = '<option value="">Seleccionar NFASE</option>';
+    cont.innerHTML = '';
+
+    if (nfases.length>0) {
+      nfases.forEach(f=>{
+        const o=document.createElement('option'); o.value=f; o.textContent=f;
+        nfaseSelect.appendChild(o);
+      });
+      nfaseSelect.disabled = false;
+    } else {
+      nfaseSelect.disabled = true;
+      resultados.forEach((r,i)=>{
+        if (r.URL) {
+          const b = document.createElement('button');
+          b.textContent = `Ver Plano ${i+1}`;
+          b.onclick = ()=> window.open(r.URL, '_blank');
+          cont.appendChild(b);
+        }
+      });
+    }
+  });
+
+  document.getElementById('nfaseSelect').addEventListener('change', function(){
+    const area = document.getElementById('areaSelect').value;
+    const zona = document.getElementById('zonaSelect').value;
+    const nfase = this.value;
+    const enlaces = data.filter(d=>d.Area===area && d.Zona===zona && d.NFASE===nfase);
+    const cont = document.getElementById('botones');
+    cont.innerHTML = '';
+    enlaces.forEach((r,i)=>{
+      if (r.URL) {
+        const b = document.createElement('button');
+        b.textContent = `Ver Plano ${i+1}`;
+        b.onclick = ()=> window.open(r.URL,'_blank');
+        cont.appendChild(b);
+      }
+    });
+  });
+
+  cargarCSV();
+
+  // ---------------- Opcional: fallback si quieres que los logos aparezcan sólo en pantallas anchas
+  // document.querySelector('.logo-fixed').style.display = window.innerWidth>420 ? 'block' : 'none';
+</script>
+</body>
+</html>
