@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#78be20">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -13,7 +15,13 @@
     height:100%;
     margin:0;
   }
-
+<script>
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register("service-worker.js")
+    .then(() => console.log("SW OK"))
+    .catch(err => console.error("SW ERROR", err));
+}
+</script>
   body {
     font-family: "Segoe UI", Arial, sans-serif;
     /* imagen de fondo (contain para que se vea completa) */
@@ -221,3 +229,4 @@
 </script>
 </body>
 </html>
+
