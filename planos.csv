@@ -1,4 +1,4 @@
-Area,Nombre,Nº Fase,Enlace a carpeta
+Area,Nombre,NºFase,Enlace a carpeta
 Granulador,Plano cargas,,https://drive.google.com/file/d/1ZlXujclTfkWw3aoS8kQGl4ckYGLjJZqI/view?usp=drive_link
 ,,,
 ,,,
@@ -276,6 +276,14 @@ Est.Campanas,Secadero 1,,https://drive.google.com/file/d/1jcB0G0kljzBAdbYrd3fStM
 Est.Campanas,Plataforma Intermedia,,https://drive.google.com/file/d/1TukpA0_ItXQq9ZJ1CPtY6dWS1lo9vV7b/view?usp=drive_link
 Est.Campanas,Enfriador 1,,https://drive.google.com/file/d/1n9u41Lw5E-K3iBXFDoN5LZSH378gmyuO/view?usp=drive_link
 ,,,
+Chimeneas,Secadero 1,Colector 4,https://drive.google.com/file/d/1HgeIP1Vexmlbh9EiqgB2KWBpJR1TnIEU/view?usp=drive_link
+Chimeneas,Secadero 1,Leyenda/detalle,https://drive.google.com/file/d/1oo4NpZz_7-T7SmyL49h6rv6R4-lQUPOY/view?usp=drive_link
+Chimeneas,Enfriador 1,Colector 2,https://drive.google.com/file/d/1erPWFppTf9RaOXV_pB4nFr9Sacfl3mEY/view?usp=drive_link
+Chimeneas,Secadero 2,Colector 2,https://drive.google.com/file/d/1erPWFppTf9RaOXV_pB4nFr9Sacfl3mEY/view?usp=drive_link
+Chimeneas,Acondicionador,Colector 2,https://drive.google.com/file/d/1erPWFppTf9RaOXV_pB4nFr9Sacfl3mEY/view?usp=drive_link
+,,,
+,,,
+,,,
 ,,,
 Edificio cribas,Nivel Molinos,Placa Grande,https://drive.google.com/file/d/1OsPLIjTxYzSNUVYshrcqzZVDCPmiXYX1/view?usp=drive_link
 Edificio cribas,Nivel Molinos,Placa Mediana,https://drive.google.com/file/d/1aPx7xfb7zlyybieS8DmAfkloBc8DRdqU/view?usp=drive_link
@@ -303,9 +311,16 @@ Edificio cribas,Nivel Torreones,Derecha,https://drive.google.com/file/d/1Ul-A7DI
 ,,,
 Edificio cribas,Nivel Pasarela Colgante,Mensulas,https://drive.google.com/file/d/1TLSVq1vPcIXzEz3akITgKyYWPCF1uCBP/view?usp=drive_link
 Edificio cribas,Nivel Pasarela Colgante,Placas,https://drive.google.com/file/d/1AuXPR8adnGeYs0tEGdcx2wf_8_KsEVGW/view?usp=drive_link
-Edificio cribas,AÃ±adidos cribas,,
-Edificio cribas,AÃ±adidos cribas,,
 ,,,
+,,,
+Edificio cribas,Añadidos cribas,PL1,https://drive.google.com/file/d/1pEMsTgtvBxoh3RokC4AlCllIG6gQc7ao/view?usp=drive_link
+Edificio cribas,Añadidos cribas,PL2,https://drive.google.com/file/d/1SBq8T3isSphBzmVB7UcEyQdgHo_xBgvi/view?usp=drive_link
+Edificio cribas,Añadidos cribas,PL3,https://drive.google.com/file/d/1LYN9IC-nsOz6KLj1s91X1CsBcO8iD8ER/view?usp=drive_link
+Edificio cribas,Añadidos cribas,PL4,https://drive.google.com/file/d/1-qOD3YeSaMrerbT7SvBGyfZHoUOVKpTl/view?usp=drive_link
+Edificio cribas,Añadidos cribas,PL4.1,https://drive.google.com/file/d/1s8HHWjEGX_xVH1_mJBslnLIYKgvLinyJ/view?usp=drive_link
+Edificio cribas,Añadidos cribas,PL4.2,https://drive.google.com/file/d/1Oob39gvzkomfaMeaHCEJViNNIIxCxrcs/view?usp=drive_link
+Edificio cribas,Añadidos cribas,PL4.3,https://drive.google.com/file/d/1kFNFZcwjmR2AEi0uwah0YV8GCO2CZDgd/view?usp=drive_link
+Edificio cribas,Añadidos cribas,PL5,https://drive.google.com/file/d/1L1_m4PoI6AvID-hSrSN-NrPR710Qva4a/view?usp=drive_link
 ,,,
 Cribas,Chasis,Fase I,https://drive.google.com/file/d/1RiBK7OuRFc68lcuerW-OaSJxJS9FS_ye/view?usp=drive_link
 Cribas,Chasis,Fase I,https://drive.google.com/file/d/1VlDLEJD71YCc7g1QpiJ_-e3pn5srCKjh/view?usp=drive_link
@@ -393,7 +408,7 @@ Conductos Aspiracion,Conjunto cribas 5/6,,https://drive.google.com/file/d/1XD8VR
 Conductos Aspiracion,"Soporte Carrete R282,5",Fase I,https://drive.google.com/file/d/1X2wtdA54BBSyuvtynOvU4Dd8uqD-gWfr/view?usp=drive_link
 Conductos Aspiracion,"Carrete R282,5x97",Fase I.a,https://drive.google.com/file/d/1zAB4lu7m-x1iG13LdtLAYzqDfglgI8_Z/view?usp=drive_link
 Conductos Aspiracion,"Carrete R282,5X2950",Fase I.b,https://drive.google.com/file/d/1W7EtCqkHULxX88qNFYkjtEOuKE0OTghz/view?usp=drive_link
-Conductos Aspiracion,"Codo 90º R282,5",Fase I.c,https://drive.google.com/file/d/1gxnyhGiXaYwfTZrnNe_hdNL72G8gdXzn/view?usp=drive_link
+Conductos Aspiracion,"Codo 90Âº R282,5",Fase I.c,https://drive.google.com/file/d/1gxnyhGiXaYwfTZrnNe_hdNL72G8gdXzn/view?usp=drive_link
 Conductos Aspiracion,"Carrete R282,5X1323",Fase I.d,https://drive.google.com/file/d/1Ko1q2PuEBuj5vkSIeWH6curyPVQQ3uGE/view?usp=drive_link
 Conductos Aspiracion,"Red R282,5-245",Fase I.e,https://drive.google.com/file/d/1Fet0Jih9XhdNOFF9FBThiXDWr49QJmKm/view?usp=drive_link
 Conductos Aspiracion,Soporte Carrete R245,Fase II,https://drive.google.com/file/d/1VgHzuD2QBS8pBATpQMp-uqb86KvxEV4n/view?usp=drive_link
@@ -690,6 +705,9 @@ Cintas 800,BC28,Pata Gallo G1,https://drive.google.com/file/d/1bzhfEMFgmDyLgUgKP
 Cintas 800,BC28,Soporte T2 IPE160 L2420,https://drive.google.com/file/d/1iKYcOP29xvK4JeKM5P0s1a7x0yC5C7el/view?usp=drive_link
 Cintas 800,BC28,Base IPE 140,https://drive.google.com/file/d/1zPgY9eAMT7BuS0wGTMoQFpR2nfUuKHIX/view?usp=drive_link
 Cintas 800,BC28,Bulon/Pasador,https://drive.google.com/file/d/1pWO0C5eoO5szn2ghsxcb-4Sr6GCrkWeR/view?usp=drive_link
+,,,
+,,,
+,,,
 Cintas 800,BC30,Completa,https://drive.google.com/file/d/1BFRcVi_QfEIeMzeO5CLoTGY3OqYaZrly/view?usp=drive_link
 Cintas 800,BC30,Apoyo 1,https://drive.google.com/file/d/1A1KNPnw8j1gDfvoxUnU5UW4JNdd31YF2/view?usp=drive_link
 Cintas 800,BC30,Orejeta,https://drive.google.com/file/d/19XIG9QpQGAG3aYBz-EBsNx2HqTEc00BO/view?usp=drive_link
@@ -720,4 +738,129 @@ Cintas 800,BC45,Orejeta,https://drive.google.com/file/d/14XSjmp_lH3r0e4zSD3fEHPw
 Cintas 800,BC45,Base Orejeta,https://drive.google.com/file/d/1PADFQLoZf-mV_nmG49_UA23VKoYGjGUy/view?usp=drive_link
 Cintas 800,BC45,Soporte T1 L400,https://drive.google.com/file/d/17TSURgEhxpXbcf-aE3uE2mATMP6C1Ub1/view?usp=drive_link
 Cintas 800,BC45,Bulon/Pasador,https://drive.google.com/file/d/1r3csnshQeHPg2PM03uxhm9nR3ikpq_wR/view?usp=drive_link
-
+,,,
+,,,
+Cintas 1000,BC01,Completa,https://drive.google.com/file/d/1j7qSNNBSSiq7-NPyJ7bceQ2gkw_UdZud/view?usp=drive_link
+Cintas 1000,BC01,Cjto Apoyos,https://drive.google.com/file/d/1iU__DFTfL3zSD-MbGwXd3bvHVyf9lavh/view?usp=drive_link
+Cintas 1000,BC01,03 Soporte,https://drive.google.com/file/d/1tXoAvrGpAw44uiwPZdBXZXPvTMdw4-6q/view?usp=drive_link
+Cintas 1000,BC01,04 Soporte,https://drive.google.com/file/d/1D78EdzIB2JY5mCTc0jFBkbLCqTyl4cKs/view?usp=drive_link
+Cintas 1000,BC01,05 Apoyo,https://drive.google.com/file/d/1oQMEqgOoXVCaYja6WMQzmP6-vG4eD-VL/view?usp=drive_link
+Cintas 1000,BC01,06 Soporte,https://drive.google.com/file/d/1o7nIU9aUHLc2G6RpoAs9PrvAYrIz2fql/view?usp=drive_link
+Cintas 1000,BC01,07 Mensula,https://drive.google.com/file/d/1Pe75GkHpWfOLQuAkPCKo50tKokT58kf3/view?usp=drive_link
+Cintas 1000,BC01,08 Pletina Apoyo,https://drive.google.com/file/d/15E02jMIyT6lgVkOcneRTSt1eHKlPNOro/view?usp=drive_link
+Cintas 1000,BC01,09 Bulon,https://drive.google.com/file/d/1DzrFvgZgMHl7sW_f5_UXvZ4aeH3IUpfZ/view?usp=drive_link
+Cintas 1000,BC01,10 Pletina Apoyo,https://drive.google.com/file/d/1Dgmi0MnKCcN3uIFyxF4XZI9fvLwLZP0j/view?usp=drive_link
+Cintas 1000,BC01,11 Cjto Pasillos,https://drive.google.com/file/d/1Pp2I-Qyua5KYZgbIUaO2trOUHxQJqGrz/view?usp=drive_link
+Cintas 1000,BC01,12 TravesaÃ±o,https://drive.google.com/file/d/1g4xSZHflJsadAbETwmNKMttG4YiDpAqg/view?usp=drive_link
+Cintas 1000,BC01,13 TravesaÃ±o,https://drive.google.com/file/d/1fIZpdoP4YhpDOXVJN36MDnQ4UQnZg2yK/view?usp=drive_link
+Cintas 1000,BC01,14 Escalera,https://drive.google.com/file/d/1ErvacbVQPfr3eRlMzix7CFEOEvJGX3sr/view?usp=drive_link
+Cintas 1000,BC01,15 Chapa,https://drive.google.com/file/d/1Z5PXyhVTuIO4jkJCnfXg4gr-cBH_IkfI/view?usp=drive_link
+Cintas 1000,BC01,16 Escalera,https://drive.google.com/file/d/1oSY1A77ks6dl2lJTUCsW1Ztw-ijWAXNq/view?usp=drive_link
+Cintas 1000,BC01,17 PeldaÃ±o,https://drive.google.com/file/d/1lcrEgYtGhBOKZK8OkihkUozmMRjNkFlG/view?usp=drive_link
+Cintas 1000,BC01,18 PeldaÃ±o,https://drive.google.com/file/d/1pB9Vmlhcfky7_vjLWjhlUz1bLYME9fR3/view?usp=drive_link
+Cintas 1000,BC01,19 Piso,https://drive.google.com/file/d/1k7r6S6LxRNImaA4YuCU3LZlzUv7FF_Dz/view?usp=drive_link
+Cintas 1000,BC01,20 Marco,https://drive.google.com/file/d/1D3LqiZYbHGfFJh-qf_S1eaO5v5c-n1yS/view?usp=drive_link
+Cintas 1000,BC01,21 Larguero,https://drive.google.com/file/d/16tAuYDYLhHvCsh0dNquqLKDZ0vTqdSt5/view?usp=drive_link
+Cintas 1000,BC01,22 Larguero,https://drive.google.com/file/d/1tTMh8epfiyVxjgqIKOHyzSXgpI5rZvuc/view?usp=drive_link
+Cintas 1000,BC01,23 TravesaÃ±o,https://drive.google.com/file/d/1uYzcmXPmCEsYVbds4mDwwktutOMapa2f/view?usp=drive_link
+Cintas 1000,BC01,24 Barandilla,https://drive.google.com/file/d/107AEhq0zv_s3-qo3KsFa0x6Fim-5YOYW/view?usp=drive_link
+Cintas 1000,BC01,25 Cabeza Motriz,https://drive.google.com/file/d/1tAgCUgyLHzzIAx9-DhLm-wm-_T8P5tY1/view?usp=drive_link
+Cintas 1000,BC01,26 Cabeza Tensora,https://drive.google.com/file/d/1InAV7EXatPn55erqOrm-36akpKBbrgIX/view?usp=drive_link
+Cintas 1000,BC01,26 Cjto Bastidor,https://drive.google.com/file/d/1ezPUDunIJvyOPG2i9ntLYKKp3v2LIVmV/view?usp=drive_link
+Cintas 1000,BC01,27 Tramo 6,https://drive.google.com/file/d/1rwEkrb0elKee7KGnGeH56v5bn8G1alow/view?usp=drive_link
+Cintas 1000,BC01,28 Tramo 2,https://drive.google.com/file/d/1uowGRCDWCaSK5IPG1VLP79vwNjbJW5--/view?usp=drive_link
+Cintas 1000,BC01,29 Larguero Reforzado,https://drive.google.com/file/d/1-nAUbUCzrLyjkQz7h5MM1TLRwG1js5Ju/view?usp=drive_link
+Cintas 1000,BC01,30 Apoyo,https://drive.google.com/file/d/1rHqey_PTRoq9xHMz7seahHHsoKgo3ZRl/view?usp=drive_link
+Cintas 1000,BC01,31 Pletina PresiÃ³n ,https://drive.google.com/file/d/11rd9npRLoYwtfoSwv1Zd4tHhWPmdoO6U/view?usp=drive_link
+Cintas 1000,BC01,32 Larguero,https://drive.google.com/file/d/1KnIg5lnz3Ce5yKSTkKwO10GYHhyY6DKV/view?usp=drive_link
+Cintas 1000,BC01,33 Apoyo ,https://drive.google.com/file/d/1CztZmieA4Pb4DoktYHfmWS5_7bDZJ0Sl/view?usp=drive_link
+Cintas 1000,BC01,34 Placa Nivelacion,https://drive.google.com/file/d/1-1chQnfQT8IoDPJYTA0Yh_KUXiT_Q-c4/view?usp=drive_link
+Cintas 1000,BC01,35 Placa,https://drive.google.com/file/d/1uoEvZHgLZV-Q7hiT-xi8T9d6xbv_fm81/view?usp=drive_link
+Cintas 1000,BC01,36 Soporte Apoyo,https://drive.google.com/file/d/1GCidtIbnDVumbw0tLOWhJvxCFGRqnFoG/view?usp=drive_link
+Cintas 1000,BC01,37 Larguero Reforzado,https://drive.google.com/file/d/1EUhoypGGaxmmZRSklbqDTQzOgMDY-EC3/view?usp=drive_link
+Cintas 1000,BC01,38 Larguero,https://drive.google.com/file/d/1auZcUoVxYUsvYt5OTKFKxcHbbBQMx5ED/view?usp=drive_link
+Cintas 1000,BC01,39 Soporte,https://drive.google.com/file/d/1YNuR52aCZ2TUQyRhpsHU0OY72O7n7p8E/view?usp=drive_link
+Cintas 1000,BC01,40 MIR Soporte,https://drive.google.com/file/d/1aL0ozd-h5zCVxnBAh4huH0fmZ-EVmc-3/view?usp=drive_link
+Cintas 1000,BC01,41 Larguero Reforzado,https://drive.google.com/file/d/1DwUZU9k6uHruSG15TIGeLy0U2mQJT7Vq/view?usp=drive_link
+Cintas 1000,BC01,42 Larguero Reforzado,https://drive.google.com/file/d/1XAuGFgbc9vyJXRk3s-oRbYT7PWwm-Zch/view?usp=drive_link
+Cintas 1000,BC01,43 Suplemento,https://drive.google.com/file/d/1dEbTwk9-ilLwhLzbmsfFHvyhanRTMNS4/view?usp=drive_link
+Cintas 1000,BC01,44 Suplemento,https://drive.google.com/file/d/1cfKv2qFHtxw5M6W51Vya18eC9AE7Sv0D/view?usp=drive_link
+Cintas 1000,BC01,45 Grapa,https://drive.google.com/file/d/1uu7Nm9MiT1_USesr9zqArMPs4H1GZivV/view?usp=drive_link
+Cintas 1000,BC01,45 Cjto Banda,https://drive.google.com/file/d/1yuF24jWev2tZATiDZykm38HKTQcio4L0/view?usp=drive_link
+Cintas 1000,BC01,46 Estacion Portante 30Âº,https://drive.google.com/file/d/1JOkxCY0ISSYpSZnFpRVwEr6eZJHaI5LQ/view?usp=drive_link
+Cintas 1000,BC01,47 Rodillo liso,https://drive.google.com/file/d/1TNr9_t2VfBdRSmP-q37ivUzantPn38al/view?usp=drive_link
+Cintas 1000,BC01,48 Soporte Rodillos GuÃ­a,https://drive.google.com/file/d/1o_VWz1VeGhNuqZa6oar7ur99Odp68MQr/view?usp=drive_link
+Cintas 1000,BC01,49 Pletina SujecciÃ³n,https://drive.google.com/file/d/1YdOn1pVrbnX0dIqVqGOAny8n3fOmrY_Y/view?usp=drive_link
+Cintas 1000,BC01,50 Soporte Rodillos GuÃ­a ,https://drive.google.com/file/d/1bxrKeVMaNU1UwCz-2oTQawYBti0mbWyH/view?usp=drive_link
+Cintas 1000,BC01,51 Soporte Rodillos GuÃ­a Curva,https://drive.google.com/file/d/1JQWwidJ6OntveU_vxdjC91jbjfMbSJC1/view?usp=drive_link
+Cintas 1000,BC01,52 Soporte Rodillos GuÃ­a,https://drive.google.com/file/d/1boGnwp-itgdThVIjPLLV5XZwW5GY4Lwo/view?usp=drive_link
+Cintas 1000,BC01,53 Estacion Portante 35Âº,https://drive.google.com/file/d/1xTM7ZIQuPOIB2j5GpddEr2lFF6kLWJyG/view?usp=drive_link
+Cintas 1000,BC01,54 Estacion Portante 20Âº,https://drive.google.com/file/d/1rSBqWCVCPFpwZtQMN18v_G4YzRNUo_pi/view?usp=drive_link
+Cintas 1000,BC01,55 Estacion Portante 20Âº,https://drive.google.com/file/d/1YAAnAh7mx8l5nUFL8L-etz2IkeVjcoe8/view?usp=drive_link
+Cintas 1000,BC01,56 Estacion Portante 30Âº,https://drive.google.com/file/d/1kcrX3zzSj97h5Fa_dYbPIzmnieyyebSp/view?usp=drive_link
+Cintas 1000,BC01,57 ProtecciÃ³n,https://drive.google.com/file/d/1ebrvqQl_S6ZUOGiTiuLZYveLT07iBtbt/view?usp=drive_link
+Cintas 1000,BC01,58 Soporte,https://drive.google.com/file/d/1LyllIGjflHBOvSLoBYD-DMm9ImYCg_2R/view?usp=drive_link
+Cintas 1000,BC01,59 Grapa,https://drive.google.com/file/d/1VPJaUeyZCN_2geeUpqCzusSvzDc3l-fI/view?usp=drive_link
+Cintas 1000,BC01,60 Retorno Limpiador,https://drive.google.com/file/d/13v3WSONVqj1QgvQDDF8PXzuaEIr9jvWA/view?usp=drive_link
+Cintas 1000,BC01,61 Soporte,https://drive.google.com/file/d/1zOg-u-lBU0s91lvwlZtGD8oCGwyfOf-B/view?usp=drive_link
+Cintas 1000,BC01,62 ProtecciÃ³n,https://drive.google.com/file/d/1k_MYrvQ4PnMy8SXs29EGywWsZ8jZWyyQ/view?usp=drive_link
+Cintas 1000,BC01,63 Soporte Rodillo GuÃ­a,https://drive.google.com/file/d/1gTGF0RfGfLB5j2MVxGWhDXlT1qXDi2WE/view?usp=drive_link
+Cintas 1000,BC01,64 Seguridades,https://drive.google.com/file/d/13swvkLPGW2uzh5XvT4eTfYxy6WMzTmyh/view?usp=drive_link
+Cintas 1000,BC01,65 Anilla GuÃ­a,https://drive.google.com/file/d/1CXrEWDG1fHBl9l8kUTkPVrDvA5kmST08/view?usp=drive_link
+Cintas 1000,BC01,66 Soporte Interruptor TirÃ³n,https://drive.google.com/file/d/1xtxE8Fl2BalFeZJzhtJFwm59ba2DM_t0/view?usp=drive_link
+Cintas 1000,BC01,67 Soporte,https://drive.google.com/file/d/1lMinnZc7EaaFCU-cRR7W8iPbRjtyjRKa/view?usp=drive_link
+Cintas 1000,BC01,68 Tolvin Descarga TB1,https://drive.google.com/file/d/1cbe7k95DkSSMgT4tuuedy9gyv3JMHh0N/view?usp=drive_link
+Cintas 1000,BC01,69 Tolvin Descarga,https://drive.google.com/file/d/1JrL6eHZzgKSz8QSfGz9qK7D6nwBj_GgX/view?usp=drive_link
+Cintas 1000,BC01,70 Tolvin Descarga,https://drive.google.com/file/d/15AEe84Lu09MgJmGBOuooXw4uIDrDGKa2/view?usp=drive_link
+Cintas 1000,BC02,Completa,https://drive.google.com/file/d/1n0m0KM5Uaz1eQwvfkI4JULshBMalCi6s/view?usp=drive_link
+Cintas 1000,BC02,Cjto Apoyos,https://drive.google.com/file/d/1P3LeGRg6lDLzMgatV2yek5KfcFhAgi72/view?usp=drive_link
+Cintas 1000,BC02,03 Apoyo,https://drive.google.com/file/d/1miB6ZnuFtPjJfik0zuyadrS98rLB1hWR/view?usp=drive_link
+Cintas 1000,BC02,04 Mensula,https://drive.google.com/file/d/1rOWeDomue7aMa89S46oixc_Oki07zgdI/view?usp=drive_link
+Cintas 1000,BC02,05 Soporte,https://drive.google.com/file/d/1C9YRTWNqAse3Gzpgz7mSpCLr6df5-U-U/view?usp=drive_link
+Cintas 1000,BC02,06 Soporte,https://drive.google.com/file/d/1tMG4zTyOgP_rCt5EJFo0eG2ZRPb0Qx8g/view?usp=drive_link
+Cintas 1000,BC02,07 Bulon,https://drive.google.com/file/d/1YCVijlNlJN7eTq_ijX1O-Hdz7p8IjjH4/view?usp=drive_link
+Cintas 1000,BC02,08 Soporte,https://drive.google.com/file/d/1sQYhGeG2tHOu0wVrMK0p-tOnP-SZo5AX/view?usp=drive_link
+Cintas 1000,BC02,09 Placa Base,https://drive.google.com/file/d/1_To6B0Doc2Mor7jFlaXK-Zx8Wo0tiUCG/view?usp=drive_link
+Cintas 1000,BC02,10 Pletina Apoyo,https://drive.google.com/file/d/12ojzmO3WTk7HKWHkKNX3GNnl5e4Mr2lB/view?usp=drive_link
+Cintas 1000,BC02,11 Apoyo,https://drive.google.com/file/d/1NLTmBWWOfp55qPOfMGnGs9Dqah3JgI6j/view?usp=drive_link
+Cintas 1000,BC02,12 Soporte,https://drive.google.com/file/d/1hHpYnrp2kVbUSewR9ZvidshnhKBbQ1UA/view?usp=drive_link
+Cintas 1000,BC02,13 Pletina Apoyo,https://drive.google.com/file/d/1sq1hFSIX8oQDSt3TdLzY1Jc5qejdDVE5/view?usp=drive_link
+Cintas 1000,BC02,14 Mensula,https://drive.google.com/file/d/1IlAE6sztVFINN40UEk-Fq-QcQMf_iWWp/view?usp=drive_link
+Cintas 1000,BC02,15 Cjto Pasillo,https://drive.google.com/file/d/1CGiwhGRc4zZOzijuEiUfkmoVbn2YdTpJ/view?usp=drive_link
+Cintas 1000,BC02,16 TravesaÃ±o,https://drive.google.com/file/d/1L9SZCQqAIfHfVSloMNrn8GQX-c5_2-Sy/view?usp=drive_link
+Cintas 1000,BC02,17 Larguero,https://drive.google.com/file/d/1jw0V5-736jTOGZGonJcq-LdXSWDIftCV/view?usp=drive_link
+Cintas 1000,BC02,18 Soporte Apoyo,https://drive.google.com/file/d/1_AMIbad75xkPm3zniM-xCwF6uqkth6w9/view?usp=drive_link
+Cintas 1000,BC02,19 Soporte Apoyo,https://drive.google.com/file/d/1dNz835SQIA6JwJtdT15WweVSNIVELGRg/view?usp=drive_link
+Cintas 1000,BC02,20 Rigidizador Chasis,https://drive.google.com/file/d/146VpXDaIIlTtr3-Ltd3HTkX_nBQnFYZh/view?usp=drive_link
+Cintas 1000,BC02,21 MIR Rigidizador Chasis,https://drive.google.com/file/d/1yZGPN5-w7tsir9W_Rke07qxte8nMDSfv/view?usp=drive_link
+Cintas 1000,BC02,22 Plataforma,https://drive.google.com/file/d/18J87H7MrwazFURTdbaJvgFsY7bi-Rv7R/view?usp=drive_link
+Cintas 1000,BC02,23 Marco,https://drive.google.com/file/d/1fDmLLrdH5Cu6N0veLpjlTY94pn1jK9Tx/view?usp=drive_link
+Cintas 1000,BC02,24 Marco,https://drive.google.com/file/d/1JfexnchdjVWyzmWDSE0T77WBjKfuBjvs/view?usp=drive_link
+Cintas 1000,BC02,25 Tramex,https://drive.google.com/file/d/18FAsxBNJdDkhSi68PExQVBb9DbzGuh9e/view?usp=drive_link
+Cintas 1000,BC02,26 Tramex,https://drive.google.com/file/d/1QgZD3XzzUoOt0LRtxGWY5roASD1fKSFg/view?usp=drive_link
+Cintas 1000,BC02,27 Tramex,https://drive.google.com/file/d/1K87vmW4UHupsYxhGylymLf7E-KPZCYNn/view?usp=drive_link
+Cintas 1000,BC02,28 TravesaÃ±o,https://drive.google.com/file/d/1JnSyd5nhAr8r4rbJ3LkmTvMe5KEYiLSN/view?usp=drive_link
+Cintas 1000,BC02,29 TravesaÃ±o,https://drive.google.com/file/d/1lR6NeihPmzFGJHhP8UleuCaq0OThQxJi/view?usp=drive_link
+Cintas 1000,BC02,30 TravesaÃ±o,https://drive.google.com/file/d/1TUagyNSk7O4DM55GbmJlpERX8YjCxgyI/view?usp=drive_link
+Cintas 1000,BC02,31 Marco,https://drive.google.com/file/d/1czwpM3uY3keVb6IV-o91fS8m5kv4KPYq/view?usp=drive_link
+Cintas 1000,BC02,32 Piso,https://drive.google.com/file/d/17qxAE4ijCMyNGXIKIEjlNMvuP69NFdDS/view?usp=drive_link
+Cintas 1000,BC02,33 Larguero,https://drive.google.com/file/d/19Ub7qbHFtMjn8JbtW4kKWLilmEor_jFn/view?usp=drive_link
+Cintas 1000,BC02,34 Larguero,https://drive.google.com/file/d/1PtRPVXm9fI_kRI13JasSZY9yskAvxVzg/view?usp=drive_link
+Cintas 1000,BC02,35 Larguero,https://drive.google.com/file/d/1hxaOQto1Kmq6na33ohzBAhVSQ6dS-7EC/view?usp=drive_link
+Cintas 1000,BC02,36 Piso,https://drive.google.com/file/d/1ag--ckyvFU4IkpQoq3YPBdxFKj-pyMXU/view?usp=drive_link
+Cintas 1000,BC02,37 Marco,https://drive.google.com/file/d/1RFRtdrPJCBv6toGUrklU2RzQ7JkSzhYX/view?usp=drive_link
+Cintas 1000,BC02,38 Larguero,https://drive.google.com/file/d/1HXbT148OFjS0AZn4mx65oqjf1mlVwea0/view?usp=drive_link
+Cintas 1000,BC02,39 Larguero,https://drive.google.com/file/d/1PjsO6wItt5QbV__lJ3lkTe5M8yT_9Bwi/view?usp=drive_link
+Cintas 1000,BC02,40 TravesaÃ±o,https://drive.google.com/file/d/1IWU19b0yEr3cLr21cceXRPWav_buP2Xc/view?usp=drive_link
+Cintas 1000,BC02,41 Larguero,https://drive.google.com/file/d/197dMrr3UMjFKunyCkj1aCjoAXdmPA5nZ/view?usp=drive_link
+Cintas 1000,BC02,42 Barandilla,https://drive.google.com/file/d/13OqJqfoMHJeF-XU3UtaVY91Z3bTlYz06/view?usp=drive_link
+Cintas 1000,BC02,43 Casquillo Barandilla,https://drive.google.com/file/d/108pAGZrigSD6Quvq4NNEMYNi_CvyNW08/view?usp=drive_link
+Cintas 1000,BC02,44 Cabeza Motriz,https://drive.google.com/file/d/1VOgFGyJJLcyFHDIhytOk8pOpDhphORd2/view?usp=drive_link
+Cintas 1000,BC02,44 Estacion Tensora Carro,https://drive.google.com/file/d/1sgxM0TepjMc2lANowpqvtDtb42OCO0-_/view?usp=drive_link
+Cintas 1000,BC02,46 Carro,https://drive.google.com/file/d/1-4J2_6Yqd2mJOHtffnbl5j7cD5dqGJ0b/view?usp=drive_link
+Cintas 1000,BC02,47 Chasis,https://drive.google.com/file/d/1D88iE2v9-GE1obxthKQInMIZlBDqqubB/view?usp=drive_link
+Cintas 1000,BC02,48 Larguero Distanciador,https://drive.google.com/file/d/1bqhgDK_HUPBtaVTeGrpoI3EaW4G99qtX/view?usp=drive_link
+Cintas 1000,BC02,49 Pletina Cierre,https://drive.google.com/file/d/1Ix39jqqf1UrjBqjefvQF2swB4eq_a8AW/view?usp=drive_link
+Cintas 1000,BC02,50 Proteccion,https://drive.google.com/file/d/1cpzwNlGCg_5QxtdI3asFkKtGVF08HOHx/view?usp=drive_link
+Cintas 1000,BC02,51 Tapa,https://drive.google.com/file/d/1HYOY4K77XvPtJFlJkfKbRvLGwMQw-FSR/view?usp=drive_link
+Cintas 1000,BC02,52 Proteccion,https://drive.google.com/file/d/1Peeie5EHwMkAQJYUrt-QX3CrXK4CIwMC/view?usp=drive_link
