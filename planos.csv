@@ -1,4 +1,4 @@
-Area,Nombre,NºFase,Enlace a carpeta
+Area,Nombre,Nº Fase,Enlace a carpeta
 Granulador,Plano cargas,,https://drive.google.com/file/d/1ZlXujclTfkWw3aoS8kQGl4ckYGLjJZqI/view?usp=drive_link
 ,,,
 ,,,
@@ -313,14 +313,14 @@ Edificio cribas,Nivel Pasarela Colgante,Mensulas,https://drive.google.com/file/d
 Edificio cribas,Nivel Pasarela Colgante,Placas,https://drive.google.com/file/d/1AuXPR8adnGeYs0tEGdcx2wf_8_KsEVGW/view?usp=drive_link
 ,,,
 ,,,
-Edificio cribas,Añadidos cribas,PL1,https://drive.google.com/file/d/1pEMsTgtvBxoh3RokC4AlCllIG6gQc7ao/view?usp=drive_link
-Edificio cribas,Añadidos cribas,PL2,https://drive.google.com/file/d/1SBq8T3isSphBzmVB7UcEyQdgHo_xBgvi/view?usp=drive_link
-Edificio cribas,Añadidos cribas,PL3,https://drive.google.com/file/d/1LYN9IC-nsOz6KLj1s91X1CsBcO8iD8ER/view?usp=drive_link
-Edificio cribas,Añadidos cribas,PL4,https://drive.google.com/file/d/1-qOD3YeSaMrerbT7SvBGyfZHoUOVKpTl/view?usp=drive_link
-Edificio cribas,Añadidos cribas,PL4.1,https://drive.google.com/file/d/1s8HHWjEGX_xVH1_mJBslnLIYKgvLinyJ/view?usp=drive_link
-Edificio cribas,Añadidos cribas,PL4.2,https://drive.google.com/file/d/1Oob39gvzkomfaMeaHCEJViNNIIxCxrcs/view?usp=drive_link
-Edificio cribas,Añadidos cribas,PL4.3,https://drive.google.com/file/d/1kFNFZcwjmR2AEi0uwah0YV8GCO2CZDgd/view?usp=drive_link
-Edificio cribas,Añadidos cribas,PL5,https://drive.google.com/file/d/1L1_m4PoI6AvID-hSrSN-NrPR710Qva4a/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL1,https://drive.google.com/file/d/1pEMsTgtvBxoh3RokC4AlCllIG6gQc7ao/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL2,https://drive.google.com/file/d/1SBq8T3isSphBzmVB7UcEyQdgHo_xBgvi/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL3,https://drive.google.com/file/d/1LYN9IC-nsOz6KLj1s91X1CsBcO8iD8ER/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL4,https://drive.google.com/file/d/1-qOD3YeSaMrerbT7SvBGyfZHoUOVKpTl/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL4.1,https://drive.google.com/file/d/1s8HHWjEGX_xVH1_mJBslnLIYKgvLinyJ/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL4.2,https://drive.google.com/file/d/1Oob39gvzkomfaMeaHCEJViNNIIxCxrcs/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL4.3,https://drive.google.com/file/d/1kFNFZcwjmR2AEi0uwah0YV8GCO2CZDgd/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,PL5,https://drive.google.com/file/d/1L1_m4PoI6AvID-hSrSN-NrPR710Qva4a/view?usp=drive_link
 ,,,
 Cribas,Chasis,Fase I,https://drive.google.com/file/d/1RiBK7OuRFc68lcuerW-OaSJxJS9FS_ye/view?usp=drive_link
 Cribas,Chasis,Fase I,https://drive.google.com/file/d/1VlDLEJD71YCc7g1QpiJ_-e3pn5srCKjh/view?usp=drive_link
@@ -543,6 +543,24 @@ Alimentacion rotativos,Despiece,C156,https://drive.google.com/file/d/1jauzkOVHKi
 Alimentacion rotativos,Despiece,C157,https://drive.google.com/file/d/1Q_H4u2qBSSpfouYOC7JKvoIwq-mlRuYk/view?usp=drive_link
 Alimentacion rotativos,Despiece,C172,https://drive.google.com/file/d/1GFUlRypkXOxKRrBPpErYqte5AOKEy5km/view?usp=drive_link
 Alimentacion rotativos,Despiece,C177,https://drive.google.com/file/d/1UPVouOoSI7RGJ7zXdvMDn5XQga5ApQln/view?usp=drive_link
+,,,
+Soporte Cam.Comb E1,Tramo Pedestal,,https://drive.google.com/file/d/1i42g2qFCqnMXnTeEdHhrKTGKlEKVbkKe/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL1 ,https://drive.google.com/file/d/1jj_A4ogDruHz0-1pAnetJ99IFXZVviHU/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL2,https://drive.google.com/file/d/1aBZJnWX_BgErEb7t_jbUe-92GA__6Iql/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL3,https://drive.google.com/file/d/1c1dCktHzr_OpqFfPXBDw3rfGMCuQHWv3/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL3.1,https://drive.google.com/file/d/1pOTTZVP7czSqeZt7sIE90D4U1KjpBrMh/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL3.2,https://drive.google.com/file/d/1k2O9zSHCyGVZuWHYqQcHKsWK81Y1eU5F/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL3.3,https://drive.google.com/file/d/1SmBItU3aIDDUnAl9_EEQ2SRv7lVAG_S1/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL3.4,https://drive.google.com/file/d/1-o18mFkYebIx_TsJSHrKHeyfuYgCy1ZF/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo Cámara,PL3.5,https://drive.google.com/file/d/1LL3vuDT7ID_yahZ3JQsVOSwzGJMJPhQj/view?usp=drive_link
+Soporte Cam.Comb E1,Tras Scrubber,PL3,https://drive.google.com/file/d/1vrFUqBl-T5pnHzebsws0Ql_UwjBUbgng/view?usp=drive_link
+Soporte Cam.Comb E1,Tras Scrubber,PL3.1,https://drive.google.com/file/d/11UgcSlwfRy3MKmW99f4os8VjDYeBXHaR/view?usp=drive_link
+Soporte Cam.Comb E1,Tras Scrubber,PL3.2,https://drive.google.com/file/d/1tFxX6Ol1ZrcsjU2zKg-4B805mLlt56-P/view?usp=drive_link
+Soporte Cam.Comb E1,Tras Scrubber,PL3.3,https://drive.google.com/file/d/1SqrksCyLqMpIXn-vJKpwvw2ZqSkQxqxJ/view?usp=drive_link
+Soporte Cam.Comb E1,Tras Scrubber,PL3.4,https://drive.google.com/file/d/1k1UgIdaSTbGyrncZZol7mTbGvboH2p4k/view?usp=drive_link
+Soporte Cam.Comb E1,Tras Scrubber,PL3.5,https://drive.google.com/file/d/1k5SR_Uc76D5g2BtkjjlUfV3HcyUUFnjL/view?usp=drive_link
+,,,
+Campanas,Acondicionador,,https://drive.google.com/file/d/1-WT-pKhkFyq02IhGmdR1Sz6viu3FJre3/view?usp=drive_link
 ,,,
 ,,,
 ,,,
@@ -864,3 +882,8 @@ Cintas 1000,BC02,49 Pletina Cierre,https://drive.google.com/file/d/1Ix39jqqf1Urj
 Cintas 1000,BC02,50 Proteccion,https://drive.google.com/file/d/1cpzwNlGCg_5QxtdI3asFkKtGVF08HOHx/view?usp=drive_link
 Cintas 1000,BC02,51 Tapa,https://drive.google.com/file/d/1HYOY4K77XvPtJFlJkfKbRvLGwMQw-FSR/view?usp=drive_link
 Cintas 1000,BC02,52 Proteccion,https://drive.google.com/file/d/1Peeie5EHwMkAQJYUrt-QX3CrXK4CIwMC/view?usp=drive_link
+,,,
+Soporte Tensor ,BC02,PL1,https://drive.google.com/file/d/1rEA0e_eDEmdHvQiu6S6iVP_0XBtmFOIB/view?usp=drive_link
+Soporte Tensor ,BC02,PL1.1,https://drive.google.com/file/d/1pDp_minJCvMcDgGeRyi6xxuv7roos-LL/view?usp=drive_link
+Soporte Tensor ,BC02,PL1.2,https://drive.google.com/file/d/15qZAM5Jxp3OoFmsTTuIoPz_5v9Vl_5AG/view?usp=drive_link
+Soporte Tensor ,BC08,PL1,https://drive.google.com/file/d/1YDDXGG5GFQexzAnc7_zzuDEJIai7zIdB/view?usp=drive_link
