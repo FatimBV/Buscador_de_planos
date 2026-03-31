@@ -1,4 +1,3 @@
-Area,Nombre,Nº Fase,Enlace a carpeta
 Granulador,Plano cargas,,https://drive.google.com/file/d/1ZlXujclTfkWw3aoS8kQGl4ckYGLjJZqI/view?usp=drive_link
 ,,,
 ,,,
@@ -321,6 +320,10 @@ Edificio cribas,AÃ±adidos cribas,PL4.1,https://drive.google.com/file/d/1s8HHWj
 Edificio cribas,AÃ±adidos cribas,PL4.2,https://drive.google.com/file/d/1Oob39gvzkomfaMeaHCEJViNNIIxCxrcs/view?usp=drive_link
 Edificio cribas,AÃ±adidos cribas,PL4.3,https://drive.google.com/file/d/1kFNFZcwjmR2AEi0uwah0YV8GCO2CZDgd/view?usp=drive_link
 Edificio cribas,AÃ±adidos cribas,PL5,https://drive.google.com/file/d/1L1_m4PoI6AvID-hSrSN-NrPR710Qva4a/view?usp=drive_link
+Edificio cribas,AÃ±adidos cribas,Desembarco BC02,https://drive.google.com/file/d/1T9P2hQKCfb2ZIykghe2rUYmBmHQpBDky/view?usp=drive_link
+,,,
+,,,
+,,,
 ,,,
 Cribas,Chasis,Fase I,https://drive.google.com/file/d/1RiBK7OuRFc68lcuerW-OaSJxJS9FS_ye/view?usp=drive_link
 Cribas,Chasis,Fase I,https://drive.google.com/file/d/1VlDLEJD71YCc7g1QpiJ_-e3pn5srCKjh/view?usp=drive_link
@@ -545,14 +548,14 @@ Alimentacion rotativos,Despiece,C172,https://drive.google.com/file/d/1GFUlRypkXO
 Alimentacion rotativos,Despiece,C177,https://drive.google.com/file/d/1UPVouOoSI7RGJ7zXdvMDn5XQga5ApQln/view?usp=drive_link
 ,,,
 Soporte Cam.Comb E1,Tramo Pedestal,,https://drive.google.com/file/d/1i42g2qFCqnMXnTeEdHhrKTGKlEKVbkKe/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL1 ,https://drive.google.com/file/d/1jj_A4ogDruHz0-1pAnetJ99IFXZVviHU/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL2,https://drive.google.com/file/d/1aBZJnWX_BgErEb7t_jbUe-92GA__6Iql/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL3,https://drive.google.com/file/d/1c1dCktHzr_OpqFfPXBDw3rfGMCuQHWv3/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL3.1,https://drive.google.com/file/d/1pOTTZVP7czSqeZt7sIE90D4U1KjpBrMh/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL3.2,https://drive.google.com/file/d/1k2O9zSHCyGVZuWHYqQcHKsWK81Y1eU5F/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL3.3,https://drive.google.com/file/d/1SmBItU3aIDDUnAl9_EEQ2SRv7lVAG_S1/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL3.4,https://drive.google.com/file/d/1-o18mFkYebIx_TsJSHrKHeyfuYgCy1ZF/view?usp=drive_link
-Soporte Cam.Comb E1,Bajo Cámara,PL3.5,https://drive.google.com/file/d/1LL3vuDT7ID_yahZ3JQsVOSwzGJMJPhQj/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL1 ,https://drive.google.com/file/d/1jj_A4ogDruHz0-1pAnetJ99IFXZVviHU/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL2,https://drive.google.com/file/d/1aBZJnWX_BgErEb7t_jbUe-92GA__6Iql/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL3,https://drive.google.com/file/d/1c1dCktHzr_OpqFfPXBDw3rfGMCuQHWv3/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL3.1,https://drive.google.com/file/d/1pOTTZVP7czSqeZt7sIE90D4U1KjpBrMh/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL3.2,https://drive.google.com/file/d/1k2O9zSHCyGVZuWHYqQcHKsWK81Y1eU5F/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL3.3,https://drive.google.com/file/d/1SmBItU3aIDDUnAl9_EEQ2SRv7lVAG_S1/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL3.4,https://drive.google.com/file/d/1-o18mFkYebIx_TsJSHrKHeyfuYgCy1ZF/view?usp=drive_link
+Soporte Cam.Comb E1,Bajo CÃ¡mara,PL3.5,https://drive.google.com/file/d/1LL3vuDT7ID_yahZ3JQsVOSwzGJMJPhQj/view?usp=drive_link
 Soporte Cam.Comb E1,Tras Scrubber,PL3,https://drive.google.com/file/d/1vrFUqBl-T5pnHzebsws0Ql_UwjBUbgng/view?usp=drive_link
 Soporte Cam.Comb E1,Tras Scrubber,PL3.1,https://drive.google.com/file/d/11UgcSlwfRy3MKmW99f4os8VjDYeBXHaR/view?usp=drive_link
 Soporte Cam.Comb E1,Tras Scrubber,PL3.2,https://drive.google.com/file/d/1tFxX6Ol1ZrcsjU2zKg-4B805mLlt56-P/view?usp=drive_link
@@ -887,3 +890,13 @@ Soporte Tensor ,BC02,PL1,https://drive.google.com/file/d/1rEA0e_eDEmdHvQiu6S6iVP
 Soporte Tensor ,BC02,PL1.1,https://drive.google.com/file/d/1pDp_minJCvMcDgGeRyi6xxuv7roos-LL/view?usp=drive_link
 Soporte Tensor ,BC02,PL1.2,https://drive.google.com/file/d/15qZAM5Jxp3OoFmsTTuIoPz_5v9Vl_5AG/view?usp=drive_link
 Soporte Tensor ,BC08,PL1,https://drive.google.com/file/d/1YDDXGG5GFQexzAnc7_zzuDEJIai7zIdB/view?usp=drive_link
+,,,
+Transferencia,BC29_ABC01,Estructura,https://drive.google.com/file/d/1XH9K1YzWaRwklvrQ_b6Ojy_tx8MGBBwH/view?usp=drive_link
+Transferencia,BC29_ABC01,Torre,https://drive.google.com/file/d/1_XqHJ7s8LBZBcnTu0T3-qTXm27kGOfSm/view?usp=drive_link
+Transferencia,BC29_ABC01,Plataforma Superior,https://drive.google.com/file/d/1a55cqRwHm1ahsmATMe-QWtHMCnBY9hnW/view?usp=drive_link
+Transferencia,BC29_ABC01,Plataforma Lateral,https://drive.google.com/file/d/1o0nKeThRfEcvZGyfBCyjXfUhUMVmb4mY/view?usp=drive_link
+Transferencia,BC29_ABC01,Extension Plataforma Superior,https://drive.google.com/file/d/1v9RDWX0ypG4KcRZgvWdBzu1CD6fNJ26s/view?usp=drive_link
+Transferencia,BC29_ABC01,Pilar A,https://drive.google.com/file/d/17EBoMkXdb2pJFQAJaxQSkQ9LNx27zZZG/view?usp=drive_link
+Transferencia,BC29_ABC01,Pilar B,https://drive.google.com/file/d/1pM_VwUKRPXKhQAxBQqZAyzLIAAQC8nbf/view?usp=drive_link
+Transferencia,BC29_ABC01,Tirantes,https://drive.google.com/file/d/1aT38HDtEHQuje5IiTZGTJYevHahshYqw/view?usp=drive_link
+Transferencia,BC29_ABC01,Distribucion Tramex,https://drive.google.com/file/d/1nu95x_qgiKYcUvNjbRgkZb7ZW0gAtIzK/view?usp=drive_link
